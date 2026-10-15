@@ -1,6 +1,6 @@
 
 import streamlit as st
-from app.triage import triage_ticket
+from triage import triage_ticket
 
 st.set_page_config(
     page_title="AI Support Ticket Triage",
