@@ -2,6 +2,15 @@
 
 A small portfolio project that helps a support team triage incoming tickets. It predicts a category, estimates urgency, drafts a first response, and flags cases that should be reviewed by a human.
 
+
+## Demo
+
+![AI Support Ticket Triage demo](screenshots/ticket-triage-demo.png)
+
+**Live Demo:** https://ai-support-ticket-triage-icskytjilkhzmobgc3zkzk.streamlit.app/
+
+**GitHub:** https://github.com/KolarNitish/ai-support-ticket-triage
+
 ## Features
 
 - Ticket categories: billing, technical issue, account access, feature request, shipping, and general inquiry
